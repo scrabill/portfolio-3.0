@@ -63,6 +63,10 @@ a, a:visited, a:hover, a:active {
     border-bottom: 1px solid #eeeeee;
 }
 
+a.fab {
+	border-bottom: none;
+}
+
 .btn-default:hover, .navbar-default .navbar-nav>.active>a:hover {
 	border-bottom: none;
 }

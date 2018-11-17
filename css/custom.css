@@ -1,10 +1,11 @@
 body {
-	background-color: #C2185B;
+	background-color: #AD1457;
 	color: #eeeeee;
 }
 
 .jumbotron {
 	background-color: #AD1457;
+	margin-bottom: 0;
 
 }
 
@@ -19,8 +20,8 @@ body {
 @media screen and (min-width: 768px) {
 
 	.jumbotron {
-    	padding-top: 100px;
-    	padding-bottom: 100px;
+    	xpadding-top: 100px;
+    	xpadding-bottom: 100px;
 	}
 
 }

@@ -1,6 +1,5 @@
 # Portfolio-3.0
 
-
 Updating my website/portfolio has been a to-do list item for a long time.
 
 In the meantime, I put together this landing page.
@@ -14,6 +13,7 @@ It's grown on me lately, so I'll keep it around and _continuously improve_ on it
 - Dynamically change background color 🤔
 - Add `https`
 - Implement service worker & caching
+- Update or remove favicon
 
 # References
 

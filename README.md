@@ -14,6 +14,7 @@ It's grown on me lately, so I'll keep it around and _continuously improve_ on it
 - Add `https`
 - Implement service worker & caching
 - Update or remove favicon
+- Add link to dev.to profile :question:
 
 # References
 

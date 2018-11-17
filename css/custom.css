@@ -1,0 +1,74 @@
+body {
+	background-color: #C2185B;
+	color: #eeeeee;
+}
+
+.jumbotron {
+	background-color: #AD1457;
+
+}
+
+.last {
+	background-color: #C2185B;
+}
+
+.jumbotron .container {
+	max-width: 960px;
+}
+
+@media screen and (min-width: 768px) {
+
+	.jumbotron {
+    	padding-top: 100px;
+    	padding-bottom: 100px;
+	}
+
+}
+
+/* Text */
+
+.jumbotron p {
+    	font-size: 21px;
+    	font-weight: 200;
+}
+
+@media screen and (min-width: 768px) {
+	
+	.jumbotron .h1, .jumbotron h1 {
+    font-size: 100px;
+	}
+
+	.jumbotron p {
+	font-size: 48px;
+	}
+}
+
+/* Links */
+
+a, a:visited, a:hover, a:active {
+    color: #eeeeee;
+    text-decoration: none;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.btn-default:hover, .navbar-default .navbar-nav>.active>a:hover {
+	border-bottom: none;
+}
+
+/* Button */
+
+.btn-default {
+	background-color: #F44336;
+	border: 0;
+	color: #eeeeee;
+}
+
+	.btn-default:hover,
+	.navbar-default .navbar-nav>.active>a:hover {
+		background-color: #D32F2F;
+		color: #eeeeee;
+	}
+
+.btn {
+	border-radius: 0;
+}

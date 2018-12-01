@@ -11,7 +11,7 @@ It's grown on me lately, so I'll keep it around and _continuously improve_ on it
 - Upgrade Bootstrap version from 3.3.7 to 4.2 :ghost:
 - Improve formatting for mobile
 - Dynamically change background color 🤔
-- Add `https`
+- ~~Add `https`~~
 - Implement service worker & caching
 - Update or remove favicon
 - Add link to dev.to profile :question:

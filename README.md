@@ -1,10 +1,10 @@
 # Portfolio-3.0
 
-Updating my website/portfolio has been a to-do list item for a long time.
+Updating my [website](https://shannoncrabill.com/) has been a to-do list item for a long time.
 
 In the meantime, I put together this landing page.
 
-It's grown on me lately, so I'll keep it around and _continuously improve_ on it over time.
+Lately, it's grown on me. So, I'll keep it around and _continuously improve_ on it over time.
 
 # To-Dos
 
@@ -19,5 +19,9 @@ It's grown on me lately, so I'll keep it around and _continuously improve_ on it
 
 # References
 
-* [portfolio 1.0](https://github.com/scrabill/scrabill.github.io)
-* [portfolio 2.0](https://github.com/scrabill/portfolio-2.0)
+- [portfolio 1.0](https://github.com/scrabill/scrabill.github.io)
+- [portfolio 2.0](https://github.com/scrabill/portfolio-2.0)
+
+# Related Projects
+
+- [twentyseventeen-child](https://github.com/scrabill/twentyseventeen-child)

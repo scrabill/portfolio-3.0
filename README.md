@@ -13,7 +13,8 @@ It's grown on me lately, so I'll keep it around and _continuously improve_ on it
 - Dynamically change background color 🤔
 - ~~Add `https`~~
 - Implement service worker & caching
-- Update or remove favicon
+- ~~Remove favicon~~
+- Update favicon :question:
 - Add link to dev.to profile :question:
 
 # References

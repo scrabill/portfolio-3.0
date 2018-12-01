@@ -4,7 +4,9 @@ Updating my [website](https://shannoncrabill.com/) has been a to-do list item fo
 
 In the meantime, I put together this landing page.
 
-Lately, it's grown on me. So, I'll keep it around and _continuously improve_ on it over time.
+Lately, it's grown on me.
+
+So, I'll keep it around and _continuously improve_ on it over time.
 
 # To-Dos
 

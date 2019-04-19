@@ -74,7 +74,7 @@ a, a:visited, a:hover, a:active {
     border-bottom: 1px solid #981ceb;
 }
 
-.last a, a:visited, a:hover, a:active {
+.last a, .last a:visited, .last a:hover, .last a:active {
 	color: #ffffff;
 	text-decoration: none;
 	border-bottom: 1px solid #ffffff;

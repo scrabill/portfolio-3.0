@@ -11,7 +11,7 @@ So, I'll keep it around and _continuously improve_ on it over time.
 # To-Dos
 
 - ~~Upgrade Bootstrap version from 3.3.7 to 4.2~~ :ghost:
-- Improve formatting for mobile
+- ~~Improve formatting for mobile~~
 - Dynamically change background color 🤔
 - ~~Add `https`~~
 - Implement service worker & caching

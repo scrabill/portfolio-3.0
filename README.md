@@ -18,6 +18,7 @@ So, I'll keep it around and _continuously improve_ on it over time.
 - ~~Remove favicon~~
 - Update favicon :question:
 - Add link to dev.to profile :question:
+- Showcase work samples via Github API 🤔
 
 # References
 

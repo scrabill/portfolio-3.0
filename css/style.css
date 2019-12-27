@@ -68,6 +68,11 @@ nav {
   display: block;
 }
 
+/* Lists */
+li {
+  padding-bottom: 10px;
+}
+
 /* Media Queries */
 
 /* Extra small devices (portrait phones, less than 576px) */

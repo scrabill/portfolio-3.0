@@ -17,7 +17,7 @@ So, I'll keep it around and _continuously improve_ on it over time.
 - Implement service worker & caching
 - ~~Remove favicon~~
 - Update favicon :question:
-- Add link to dev.to profile :question:
+- ~~Add link to dev.to profile :question:~~
 - Showcase work samples via Github API 🤔
 
 # References

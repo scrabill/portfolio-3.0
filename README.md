@@ -20,6 +20,7 @@ So, I'll keep it around and _continuously improve_ on it over time.
 - ~~Add link to dev.to profile :question:~~
 - Showcase work samples via Github API 🤔
 - Automatically deploy 🤖
+- Migrate blog to static site generator
 
 # References
 

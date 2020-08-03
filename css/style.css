@@ -1,8 +1,12 @@
+:root {
+  --primary-color: #981ceb;
+  --secondary-color: #111111;
+}
 /* Links */
 
 a, a:visited, a:hover, a:active {
-  border-bottom: 1px solid #981ceb;
-  color: #981ceb;
+  border-bottom: 1px solid var(--primary-color);
+  color: var(--primary-color);
   text-decoration: none;
 }
 
@@ -44,12 +48,12 @@ body {
 }
 
 h1 {
-  color: #981ceb;
+  color: var(--primary-color);
   font-weight: bold;
 }
 
 h2 {
-  color: #111111;
+  color: var(--secondary-color);
 }
 
 /* Structure */
@@ -59,7 +63,7 @@ jumbotron {
 }
 
 nav {
-  background-color: #981ceb;
+  background-color: var(--primary-color);
   color: #ffffff;
   height: 100px;
 }

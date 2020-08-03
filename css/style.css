@@ -2,6 +2,11 @@
   --primary-color: #981ceb;
   --secondary-color: #111111;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
 /* Links */
 
 a, a:visited, a:hover, a:active {

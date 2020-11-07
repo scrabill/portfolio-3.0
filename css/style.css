@@ -7,6 +7,12 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Structure */
+
+.card {
+  border-top: 3px solid var(--primary-color);
+}
+
 /* Links */
 
 a, a:visited, a:hover, a:active {

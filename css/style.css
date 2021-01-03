@@ -52,6 +52,18 @@ a.btn {
   color: #C2185B;
 }
 
+a.button.is-link {
+  background-color: var(--primary-color);
+  display: block;
+  margin-bottom: 1em;
+}
+
+.button.is-link.is-active, .button.is-link:active, a.button.is-link:hover {
+  background-color: #7e16c4;
+  border-color: transparent;
+  color: #fff;
+}
+
 /* Typography */
 
 body {
@@ -86,6 +98,10 @@ nav {
 /* Lists */
 li {
   padding-bottom: 10px;
+}
+
+#links {
+  max-width: 600px;
 }
 
 /* Media Queries */
